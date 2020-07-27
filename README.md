@@ -1,6 +1,6 @@
 # Landing Page Project
 
-This project is for Udacity's Front End Nanodegree program. HTML and CSS starter code provided by Udacity.
+This project is the second project for Udacity's Front End Nanodegree program. HTML and CSS starter code provided by Udacity.
 
 
 ## Description
